@@ -1,1 +1,0 @@
-# BESS Optimierung mit PyPSA
